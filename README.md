@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/project-logo.png" alt="More Cleaning or More Data?" width="420"/>
+<img src="assets/logo.png" alt="More Cleaning or More Data?" width="420"/>
 
 # More Cleaning or More Data?
 
